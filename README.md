@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tony
-- 👀 I’m interested doing projects in python and JS
+- 👀 I’m interested doing projects in python
 - 💞️ I’m looking to collaborate on open source projects in Python
 
 <!---
