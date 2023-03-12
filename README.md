@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Tony
-- 👀 I’m interested doing projects in python
-- 💞️ I’m looking to collaborate on open source projects in Python
+- 👋 Hi, I’m Tony.
+- 👀 Python all the way.
+
 
 <!---
 tonycoldashian/tonycoldashian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
