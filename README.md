@@ -15,12 +15,12 @@
 ## 🛠 Tech Toolbox
 # Data Engineering, Primary Skills and AI Stuff
 <p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,aws,s3,lambda,cloudformation,snowflake,postgres,mongodb,docker,numpy,pandas,scipy,airflow,flask,fastapi,dbeaver&titles=true&perline=8" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,aws,bash,s3,lambda,ec2,cloudformation,snowflake,postgres,mongodb,docker,numpy,pandas,scipy,airflow,flask,fastapi,dbeaver&titles=true&perline=9" />
 </p>
 
 # Platforms and general tools
 <p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=linux,ubuntu,git,github,pytest,postman,vscode,pycharm,databricks,jenkins,qt,raspberrypi&titles=true" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=linux,ubuntu,windows,powershell,git,github,githubactions,gitlab,pytest,postman,vscode,pycharm,databricks,jenkins,qt,raspberrypi&titles=true&perline=8" />
 </p>
 
 
